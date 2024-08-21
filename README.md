@@ -41,7 +41,8 @@ The Chatting Application is a Java-based project designed to facilitate real-tim
 3. Enter the username and start chatting!
 
 ## Contributers (Initial Work)
--**[Yash Mathur](https://github.com/TheMorpheus7)**.
+-**[Yash Mathur](https://github.com/TheMorpheus7)**
+
 -**[Atufa Akhtar](https://github.com/atufaakhtar)**
 
 ## Contributing
