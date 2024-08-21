@@ -40,9 +40,9 @@ The Chatting Application is a Java-based project designed to facilitate real-tim
 2. Launch client instances for each user that wants to join the chat.
 3. Enter the username and start chatting!
 
-## Contributers
-@TheMorpheus7
-@atufaakhtar
+## Contributers (Initial Work)
+**@TheMorpheus7 (https://github.com/TheMorpheus7)
+**@atufaakhtar (https://github.com/atufaakhtar)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
